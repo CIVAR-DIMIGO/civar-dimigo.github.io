@@ -56,6 +56,10 @@
   font-style: normal;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo|Nanum+Pen+Script');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -188,7 +192,7 @@ header h1 {
 
 header h2 {
   background-color: #7c334f;
-  font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
+  font: bold italic .85em/1.5 "Nanum Barun Gothic", Georgia, Times, “Times New Roman”, serif;
   color: #e69b95;
   padding-bottom: 14px;
   margin-top: -3px;
@@ -365,7 +369,7 @@ footer span.octocat {
 
 body {
   background: #ece4d8;
-  font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+  font: normal normal 17px/1.5 "Nanum Gothic", Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
   color: #544943;
   -webkit-font-smoothing: antialiased;
 }
@@ -383,7 +387,7 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-family: 'Open Sans', Myriad, Calibri, 'Nanum Barun Gothic',  sans-serif;
   font-weight: bold;
 }
 
@@ -527,14 +531,20 @@ dd p:first-child {
 }
 
 .header-level-1 {
-  font-size: 1.85em;
-  border-bottom: .2em double #d3ccc1;
+  font-size: 1.58em;
   color: #7c334f;
-  text-align: center;
-  font-style: italic;
-  margin: 1.1em 0 .38em;
+  margin: .95em 0 .5em;
+  border-bottom: .1em solid #D3CCC1;
   line-height: 1.2;
   padding-bottom: 10px
+  // font-size: 1.85em;
+  // border-bottom: .2em double #d3ccc1;
+  // color: #7c334f;
+  // text-align: center;
+  // font-style: italic;
+  // margin: 1.1em 0 .38em;
+  // line-height: 1.2;
+  // padding-bottom: 10px
 }
 
 .header-level-2 {

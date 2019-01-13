@@ -2,122 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 시바가 뭐예요?
 
-[Link to another page](./another-page.html).
+시바 (CIVAR) 는 한국디지털미디어고등학교 18기 신입생들이 조직한 개발팀입니다. **"18"**기 이기 때문에 발음이 유사한 **"시바"**로 이름을 지었습니다. 마스코트 또한 시바견입니다.
 
-There should be whitespace between paragraphs.
+시바견의 영어 명칭은 Shiba인데 왜 CIVAR 이냐는 질문에 대한 답은.. 작명자에 따르면 [CI](https://ko.wikipedia.org/wiki/%EC%A7%80%EC%86%8D%EC%A0%81_%ED%86%B5%ED%95%A9) + Var(Variable) 를 의도하였다고 합니다. 진실은 저 너머에!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# 뭐하고 계세요?
 
-# Header 1
+현재 기준으로 시바의 대표 프로젝트는 [디미워드 (Dimiwords)](https://dimiwords.tk/)입니다. 디미워드는 디미고 학생들의 단어 암기 과제 수행을 돕기 위해 [여준호](https://github.com/junhoyeo) 군이 시작한 프로젝트로써, 현재는 새로운 컨셉 아이디어를 수렴하고 디자인 개편 및 단어 학습 방식 일부 개편을 진행하고 있습니다.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# 어떻게 들어가요?
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+시바는 한국디지털미디어고등학교 18기 학생이라면 누구든 가리지 않고 받을 의향이 있습니다. 면접 같은 평가 절차는 전혀 없으니, 들어오고 싶으시다면 [시바 페이스북 페이지](https://www.facebook.com/CIVAR18/)로 메시지를 남겨주시거나 시바 일원 중 아무에게나 개인적으로 연락 해주세요.
